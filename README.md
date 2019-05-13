@@ -10,6 +10,4 @@ ASP.NET Core 의 빈프로젝트에서 WebAPI를 세팅하는 프로젝트 셈�
 ## 프로젝트 구성
 .Net Core 2.2  
 
-
-
 Visual Studio 2019 Preview(16.1.0 Preview 3.0)
